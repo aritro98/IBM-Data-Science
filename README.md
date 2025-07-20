@@ -10,3 +10,8 @@ The program consists of 12 online courses that will provide you with the latest 
 Upon successfully completing these courses, you will have built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in data science.
 
 In addition to earning a Professional Certificate from Coursera, you'll also receive a digital badge from IBM recognizing your proficiency in data science.
+
+**Tools**: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+**Skills**: Databases, Data Visualization, Exploratory Data Analysis, Data Literacy, Machine Learning, and Generative AI.
+**Latest languages, Tools and libraries**: Python, SQL, Jupyter notebooks, Github, Rstudio, Pandas, Numpy, ScikitLearn, Matplotlib, and more.
