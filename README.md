@@ -34,3 +34,20 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
 |  10   |Applied Data Science Capstone|
 |  11   |Generative AI: Elevate Your Data Science Career|
 |  12   |Data Scientist Career Guide and Interview Preparation|
+
+## Instructors
+* IBM Skills Network Team
+* Dr. Pooja
+* Abhishek Gagneja
+* Romeo Kienzler
+* Joseph Santarcangelo
+* Polong Lin
+* Alex Aklson
+* Rav Ahuja
+* Saishruthi Swaminathan
+* Hima Vasudevan
+* Azim Hirjani
+* Aije Egwaikhide
+* Yan Luo
+* Svetlana Levitan
+* Jeff Grossman
